@@ -14,3 +14,4 @@ python-docx
 spacy
 skillNer
 plotly
+ipython>=8.0
