@@ -1,0 +1,16 @@
+streamlit
+pdfplumber
+docx2txt
+pandas
+numpy
+scikit-learn
+matplotlib
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+unstructured
+python-docx
+spacy
+skillNer
+plotly
